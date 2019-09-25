@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "761864521093",
+    "firebase_url": "https://golden-box-6f6a1.firebaseio.com",
+    "project_id": "golden-box-6f6a1",
+    "storage_bucket": "golden-box-6f6a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761864521093:android:51f0fe893e57e07277b0ec",
+        "android_client_info": {
+          "package_name": "com.example.goldenbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761864521093-l71vj6legn2spq0sop9oepkdifokfiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEihdZ3rncLkB6bkvXfPd4XqkrxOPBw-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761864521093-l71vj6legn2spq0sop9oepkdifokfiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761864521093:android:57e378ae53db45fd77b0ec",
+        "android_client_info": {
+          "package_name": "com.leehoyoon.computer.goldenbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761864521093-l71vj6legn2spq0sop9oepkdifokfiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEihdZ3rncLkB6bkvXfPd4XqkrxOPBw-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761864521093-l71vj6legn2spq0sop9oepkdifokfiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
