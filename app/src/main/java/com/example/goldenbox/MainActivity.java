@@ -512,6 +512,7 @@ public class MainActivity extends AppCompatActivity {
                     + "\n고도 : " + altitude + "\n정확도 : " + accuracy);
             cg = new CarGPS(latitude,longitude,formatDate);
             mDatabase.child(nowtime).child("emergencyCarLocation").setValue(cg);
+            //여기부분이 없었음
         }
 
         public void onProviderDisabled(String provider) {
